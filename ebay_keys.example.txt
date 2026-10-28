@@ -1,0 +1,6 @@
+# Copy to ebay_keys.txt and fill in from developer.ebay.com (use SANDBOX keys for testing).
+# ebay_keys.txt is in .gitignore - never commit it.
+APP_ID=
+DEV_ID=
+CERT_ID=
+USER_TOKEN=

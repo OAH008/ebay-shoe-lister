@@ -1,0 +1,13 @@
+{
+ "environment": "sandbox",
+ "postal_code": "00000",
+ "location": "City, State",
+ "country": "US",
+ "policy_names": {
+  "PAYMENT": "Your payment policy name",
+  "SHIPPING": "Your shipping policy name",
+  "RETURN_POLICY": "Your return policy name"
+ },
+ "sheet_id": "",
+ "sheet_tab": "Inventory"
+}

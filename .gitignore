@@ -1,0 +1,27 @@
+# Secrets and store settings - never commit
+ebay_keys.txt
+inventory_key.json
+config.json
+*.key
+.env
+
+# Run output
+results_log.csv
+preview.html
+inventory_pending.jsonl
+gui_settings.json
+
+# Photos and real batches
+*.jpg
+*.jpeg
+*.png
+*.heic
+!docs/screenshots/*.png
+!docs/screenshots/*.gif
+batch*_listings.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
